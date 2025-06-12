@@ -1,13 +1,13 @@
 class Number:
-    evens = []    # Class variable for even numbers
-    odds = []     # Class variable for odd numbers
+    evens = []    
+    odds = []    
     
     def __init__(self, num):
         self.num = num
         if num % 2 == 0:
             Number.evens.append(num)
         else:
-            Number.odds.append(num)  # Changed from 'adds' to 'odds'
+            Number.odds.append(num)  
 
 N1 = Number(21)
 N2 = Number(32)
