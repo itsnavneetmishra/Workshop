@@ -1,0 +1,10 @@
+{
+    "Zig Zag": {
+        "price": 21,
+        "stock": 9999
+    },
+    "Dumbel": {
+        "price": 18,
+        "stock": 8000
+    }
+}

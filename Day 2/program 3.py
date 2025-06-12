@@ -6,7 +6,8 @@ class AREA:
     def recarea(self):
         print(self.l*self.b)
 
-a=int(input("Enter length : "))
-b=int(input("Enter breadth : "))
-R1=AREA(a,b)
+
+R1=AREA(10,20)
+R2=AREA(2,5)
 R1.recarea()
+R2.recarea()
