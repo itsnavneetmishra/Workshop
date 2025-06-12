@@ -7,5 +7,5 @@ def create_object(value):
 
 obj=create_object(10)
 print(obj.value)
-   
+
 
