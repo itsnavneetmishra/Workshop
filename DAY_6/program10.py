@@ -1,4 +1,4 @@
-#horizontal button
+#spin box
 
 
 import tkinter as tk

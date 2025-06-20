@@ -1,10 +1,11 @@
-from tkinter import *
+import tkinter as tk
 
-window=Tk()
-window.title("This is title")
+window=tk.Tk()
 
 
-label=Label(window,text="Navneet Mishra",font=("Algerian",50))
-label.pack()
+window.title("11111222211111")
+
+
+
 
 window.mainloop()
